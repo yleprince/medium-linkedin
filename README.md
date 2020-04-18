@@ -6,7 +6,7 @@ Feel free to contact me on LinkedIn: [linkedin.com/in/yrieix.leprince](https://w
 
 ## Link to the article
 
-You may read the article here: [medium.com/@yrieix.leprince_14799/what-does-linkedin-know-about-you-81cd65c69cb](https://medium.com/@yrieix.leprince_14799/what-does-linkedin-know-about-you-81cd65c69cb)
+You may read the article here: [medium.com/@yrieix/what-does-linkedin-know-about-you-81cd65c69cb](https://medium.com/@yrieix/what-does-linkedin-know-about-you-81cd65c69cb)
 
 ## Setup
 
